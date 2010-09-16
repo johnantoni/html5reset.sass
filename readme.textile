@@ -1,0 +1,5 @@
+HTML5 reset stylesheet ported to SASS
+
+See: http://html5doctor.com/html-5-reset-stylesheet/
+
+This Version: 1.6
